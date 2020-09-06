@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+/Users/cha-ji/Git/InternetProgramming/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1748669995.index
+/JSPBook/src
+/Users/cha-ji/Git/InternetProgramming/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4266062593.index
+/WebMarket/src
+/Users/cha-ji/Git/InternetProgramming/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2537011730.index
+/week01/src
