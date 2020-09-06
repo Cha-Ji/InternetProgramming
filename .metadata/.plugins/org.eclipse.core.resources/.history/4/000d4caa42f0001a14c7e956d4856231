@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>3-2 시간표</title>
+</head>
+<body>
+	<table border="1" width ="900" >
+	<th colspan = "6">3학년 2학기 시간표</th>
+	<tr>
+	    <td></td><td>월</td><td>화</td><td>수</td><td>목</td><td>금</td>
+	</tr>
+	<tr>
+	    <td>09시</td>
+	    <td></td>
+	    <td rowspan = "4">컴퓨터 그래픽스 및 실습</td>
+	    <td rowspan = "4">리눅스 프로그래밍</td>
+	    <td></td>
+	    <td></td>
+	    
+	</tr>
+	<tr>
+	    <td>10시</td>
+	    <td></td>
+	</tr>
+	<tr>
+	    <td>11시</td>
+	    <td></td>
+	</tr>
+		<tr>
+	    <td>12시</td>
+	    <td></td>
+	</tr>
+	<tr>
+	    <td>01시</td>
+	    <td></td>
+	</tr>
+	<tr>
+	    <td>02시</td>
+	    <td></td>
+	</tr>
+		<tr>
+	    <td>03시</td>
+	    <td></td>
+	</tr>
+		<tr>
+	    <td>04시</td>
+	    <td></td>
+	</tr>
+	<tr>
+	    <td>05시</td>
+	    <td></td>
+	</tr>
+	<tr>
+	    <td>06시</td>
+	    <td></td>
+	</tr>
+    </table>
+</body>
+</html>
