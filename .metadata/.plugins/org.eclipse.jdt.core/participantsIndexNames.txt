@@ -5,5 +5,7 @@ INDEX VERSION 1.131
 /WebMarket/src
 /Users/cha-ji/Git/InternetProgramming/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3769198818.index
 /week02/src
+/Users/cha-ji/Git/InternetProgramming/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2615522058.index
+/ch03/src
 /Users/cha-ji/Git/InternetProgramming/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2537011730.index
 /week01/src
