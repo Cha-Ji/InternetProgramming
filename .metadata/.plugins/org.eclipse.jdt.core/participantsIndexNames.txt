@@ -3,9 +3,13 @@ INDEX VERSION 1.131
 /JSPBook/src
 /Users/cha-ji/Git/InternetProgramming/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4266062593.index
 /WebMarket/src
-/Users/cha-ji/Git/InternetProgramming/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3769198818.index
-/week02/src
+/Users/cha-ji/Git/InternetProgramming/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/337006587.index
+/ch04/src
+/Users/cha-ji/Git/InternetProgramming/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4017969797.index
+/ch04/src
 /Users/cha-ji/Git/InternetProgramming/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2615522058.index
 /ch03/src
+/Users/cha-ji/Git/InternetProgramming/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3769198818.index
+/week02/src
 /Users/cha-ji/Git/InternetProgramming/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2537011730.index
 /week01/src
